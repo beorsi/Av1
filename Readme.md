@@ -4,27 +4,27 @@ para outra página?
 ( ) <link> 
 ( ) <href> 
 (X) <a> 
-( ) <url> 
+( ) <url> \
 2 
 [1,0 pt] b) Qual é a forma correta de vincular um arquivo CSS externo chamado "index.css" a 
 um documento HTML? 
 ( ) <style src="index.css"> 
 ( ) <css href="index.css"> 
 (X) <link rel="stylesheet" href="index.css"> 
-( ) <import href="index.css"> 
+( ) <import href="index.css"> \
 [1,0 pt] c) Em CSS, qual seletor deve ser usado para aplicar um estilo a todos os elementos que 
 possuem class="cabecalho"? 
 ( ) #cabecalho 
 (X) .cabecalho 
 ( ) *cabecalho 
-( ) cabecalho() 
+( ) cabecalho() \
 [1,0 pt] d) Qual tag HTML é utilizada para definir uma linha dentro de uma tabela? 
 ( ) <td> 
 (X) <tr> 
 ( ) <th> 
-( ) <row> 
+( ) <row> \
 [1,0 pt] e) Qual propriedade CSS é responsável por definir a cor de fundo de um elemento? 
 ( ) color 
 (X) background-color 
 ( ) font-color 
-( ) border-color 
+( ) border-color \
